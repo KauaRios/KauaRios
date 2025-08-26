@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Kaua Rios!
 
-<!--
-**KauaRios/KauaRios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**  
+💡 Apaixonado por **tecnologia, programação e inovação**  
+🌱 Atualmente aprendendo mais sobre **Desenvolvimento Web, C++, Python e C**  
+⚡ Sempre em busca de novos desafios para evoluir minhas habilidades  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Linguagens
+- 🌐 **Desenvolvimento Web (HTML, CSS, JavaScript)**  
+- 🐍 **Python**  
+- ⚙️ **C e C++**  
+- 🔧 **Ferramentas:** Git, VS Code  
+- 💻 **Sistemas Operacionais:** Windows 10/11 e Manjaro Linux (dualboot)  
+
+---
+
+## 📈 Objetivos
+- Aprofundar conhecimentos em **Ciência da Computação**  
+- Contribuir para projetos **open source**  
+- Criar projetos próprios para aplicar o que aprendo  
+- Compartilhar meus estudos e progresso no GitHub  
+
+---
+
+## 📫 Contato
+- 📧 Email: *(kauarios49@gmail.com)*  
+
+---
+
+✨ Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução 🚀
+
