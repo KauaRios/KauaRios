@@ -12,7 +12,7 @@
 - 🐍 **Python**  
 - ⚙️ **C e C++**  
 - 🔧 **Ferramentas:** Git, VS Code  
-- 💻 **Sistemas Operacionais:** Windows 10/11 e Manjaro Linux (dualboot)  
+- 💻 **Sistemas Operacionais:** Windows 10/11 e Fedora Linux (dualboot)  
 
 ---
 
