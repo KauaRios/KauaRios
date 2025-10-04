@@ -21,6 +21,7 @@ Cursando Ciências da Computaçao 2/8*
 
 **`Desenvolvedor em Apredizagem`**
 
+
 <p align="left">
     <a href="https://github.com/KauaRios?tab=repositories&sort=stargazers">
         <img 
@@ -33,10 +34,21 @@ Cursando Ciências da Computaçao 2/8*
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/KauaRios?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
-            
-        
+            src="https://custom-icon-badges.demolab.com/github/followers/KauaRios?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/>
+    </a>
 </p>
+
+# Linkedin
+
+  <a href="https://www.linkedin.com/in/kau%C3%A3rios/">
+        <img 
+            alt="Confira Meu Linkedin"
+             title="Linkedin"
+            width="180"
+            style="margin-left:8px; vertical-align:middle;"
+            src="https://img.shields.io/badge/LinkedIn-Kaua%20Rios-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+
 
 ---
 
@@ -124,7 +136,7 @@ Cursando Ciências da Computaçao 2/8*
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRios&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRios&theme=tokyonight&layout=compact&custom_title=Tecnolcogias&langs_count=9" 
   />
 
 </p>
