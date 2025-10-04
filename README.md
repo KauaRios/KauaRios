@@ -1,6 +1,25 @@
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Kaua+Rios+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/header-gif.gif">
+
+#
+
+
 # 👩🏻‍💻 Kaua Rios
 *Olá, me chamo Kauã, tenho 19 anos.
 Cursando Ciências da Computaçao 2/8*
+
+
+
+<img align="height" alt="" height="90px" src="./src/study.gif">
+
+
+
 
 **`Desenvolvedor em Apredizagem`**
 
