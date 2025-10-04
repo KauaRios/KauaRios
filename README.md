@@ -5,14 +5,12 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
-#
-
-
-# 👩🏻‍💻 Kaua Rios
+# <img align="center" alt="" width="2000" height="100px" src="./src/hacker.gif">
+ # 👩🏻‍💻 Kaua Rios
 *Olá, me chamo Kauã, tenho 19 anos.
 Cursando Ciências da Computaçao 2/8*
+
+
 
 
 
