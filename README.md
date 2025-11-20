@@ -1,3 +1,7 @@
+  # 👩🏻‍💻 Kaua Rios
+  
+  #Olá, me chamo Kauã, tenho 19 anos.*
+  #Cursando Ciências da Computação 2/8*
 
 <div align="center">
   <img src="./src/noquarto.png" alt="Snake Animation" width="100%" style="border-radius: 0px;">
@@ -5,10 +9,6 @@
 
 
   
-  # 👩🏻‍💻 Kaua Rios
-  
-  *Olá, me chamo Kauã, tenho 19 anos.*
-  *Cursando Ciências da Computação 2/8*
   
   <br>
   
@@ -62,6 +62,23 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=KauaRios&theme=dracula&hide_border=false" width="354px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRios&theme=dracula&layout=compact" width="300px">
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
