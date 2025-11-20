@@ -48,7 +48,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=KauaRios&theme=jolly&hide_border=false&card_width=100" width="300px">
     <img src="https://nirzak-streak-stats.vercel.app/?user=KauaRios&theme=jolly&hide_border=false" width="354px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRios&theme=jolly&layout=compact" width="300px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRios&theme=jolly&layout=compact" width="255px">
   </p>
 </div>
 
