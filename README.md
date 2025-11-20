@@ -4,7 +4,7 @@
   * Cursando Ciências da Computação 2/8 
 
 <div align="center">
-  <img src="./src/noquarto.png" alt="Snake Animation" width="100%" style="border-radius: 0px;">
+  <img src="./src/brabo.gif" alt="Snake Animation" width="100%" style="border-radius: 0px;">
 </div>
 
 
