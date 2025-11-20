@@ -1,7 +1,7 @@
   # 👩🏻‍💻 Kaua Rios
   
-  #Olá, me chamo Kauã, tenho 19 anos.*
-  #Cursando Ciências da Computação 2/8*
+  # Olá 😊, me chamo Kauã, tenho 19 anos 
+  * Cursando Ciências da Computação 2/8 
 
 <div align="center">
   <img src="./src/noquarto.png" alt="Snake Animation" width="100%" style="border-radius: 0px;">
@@ -25,12 +25,8 @@
 
 <br>
 
-<div align="center">
-  <img align="center" height="200" width="1000px" src="./src/study.gif" style="border-radius: 0px;">
-  <h3>🚀 Desenvolvedor em Aprendizagem</h3>
-</div>
 
----
+
 
 ### 🛠️ Linguagens e Tecnologias
 
@@ -44,7 +40,7 @@
 ### 🖥️ Sistemas Operacionais 
 
 
-[![Sistemas Operacionais](https://skillicons.dev/icons?i=windows,mint,arch,linuxflutter&perline=3)](https://skillicons.dev)
+[![Sistemas Operacionais](https://skillicons.dev/icons?i=windows,mint,arch,linux&perline=3)](https://skillicons.dev)
 
 ### Habilidades Gerais
 [![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,linux,mint,git,github,windows,docker,arch&perline=3)](https://skillicons.dev)
