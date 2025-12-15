@@ -3,6 +3,7 @@
 <h2 style="color: #a855f7;"> Olá 😊, me chamo Kauã, tenho 19 anos </h2>
 <h3 style="color: #a855f7;"> Cursando Ciências da Computação 2/8 </h3>
 
+
 <div align="center">
   <img src="./src/brabo.gif" alt="Snake Animation" width="100%" style="border-radius: 0px;">
 </div>
@@ -35,6 +36,7 @@
 <h2 style="color: #a855f7;">🖥️ Sistemas Operacionais</h2> 
 
 [![Sistemas Operacionais](https://skillicons.dev/icons?i=windows,mint,arch,linux&perline=10)](https://skillicons.dev)
+<h3 style="color: #a855f7;"> Atualmente usando CachyOS (base archlinux) </h3>
 
 <h2 style="color: #a855f7;">🚀 Habilidades Gerais</h2>
 
