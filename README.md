@@ -38,7 +38,7 @@
 
 
 [![Sistemas Operacionais](https://skillicons.dev/icons?i=windows,mint,arch,linux&perline=10)](https://skillicons.dev)
-<h2 style="color: #a855f7;"> Atualmente usando CachyOS (base archlinux) </h2>
+<h2 style="color: #a855f7;"> Atualmente usando Windows 11 </h2>
 
 
 <h2 style="color: #a855f7;">🚀 Habilidades Gerais</h2>
