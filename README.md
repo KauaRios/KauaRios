@@ -1,6 +1,6 @@
 <h1 style="color: #a855f7;"> 👩🏻‍💻 Kauã Rios </h1>
  
-<h2 style="color: #a855f7;"> Olá 😊, me chamo Kauã, tenho 19 anos </h2>
+<h2 style="color: #a855f7;"> Olá , me chamo Kauã, tenho 19 anos </h2>
 <h3 style="color: #a855f7;"> Cursando Ciências da Computação 3/8 </h3>
 
 
