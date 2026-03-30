@@ -33,7 +33,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea&perline=10)](https://skillicons.dev)
 
-<h2 style="color: #a855f7;">🖥️ Sistemas Operacionais (Atualmente usando Windows 11) </h2> 
+<h2 style="color: #a855f7;">🖥️ Sistemas Operacionais (Atualmente utilizando CachyOs) </h2> 
 
 
 
@@ -50,19 +50,15 @@
 <h2 style="color: #a855f7;">📊 Estatísticas</h2>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=KauaRios&theme=jolly&hide_border=false&card_width=100" width="300px">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=KauaRios&theme=jolly&hide_border=false" width="354px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRios&theme=jolly&layout=compact" width="255px">
-  </p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaRios&theme=tokyonight"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauaRios&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KauaRios&theme=tokyonight"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaRios&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauaRios&theme=tokyonight&utcOffset=-3"/>
 </div>
 
-<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaRios/KauaRios/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaRios/KauaRios/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaRios/KauaRios/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+
+
