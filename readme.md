@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Computer+Science+Student;We+are+born+of+the+blood...;Hunter.+Refuses+to+go+hollow." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Ciência+Da+Computação+é+Vida." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -30,14 +30,9 @@
 
 **Computer Science Student — 3/8**
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
-
 Cursando **Ciências da Computação**, construindo projetos reais e aprofundando conhecimentos em desenvolvimento de software, sistemas operacionais Linux e arquitetura de computadores.
 
 Tenho experiência com **HTML**, **CSS**, **PHP**, **C**, **C++**, **Python**, **JavaScript**, **Git** e atualmente explorando **Docker & Linux avançado**.
-
-<img align="right" width="200px" src="./src/char.jpg" alt="Hunter"/>
-<br clear="right"/>
 
 ---
 
@@ -57,6 +52,18 @@ Tenho experiência com **HTML**, **CSS**, **PHP**, **C**, **C++**, **Python**, *
 ![Docker](https://img.shields.io/badge/Docker-0d0f12?style=for-the-badge&logo=docker&logoColor=c9a84c)
 ![Linux](https://img.shields.io/badge/Linux-0d0f12?style=for-the-badge&logo=linux&logoColor=c9a84c)
 ![VSCode](https://img.shields.io/badge/VSCode-0d0f12?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+<div align="center">
+
+[![DOTFILES](https://github-readme-stats.vercel.app/api/pin/?username=KauaRios&repo=DOTFILES&theme=dark&bg_color=0d0f12&border_color=1a1508&title_color=c9a84c&text_color=5a5040)](https://github.com/KauaRios/DOTFILES)
+[![vtuberIA](https://github-readme-stats.vercel.app/api/pin/?username=KauaRios&repo=vtuberIA&theme=dark&bg_color=0d0f12&border_color=1a1508&title_color=c9a84c&text_color=5a5040)](https://github.com/KauaRios/vtuberIA)
+[![BACKEND-Cafeteria](https://github-readme-stats.vercel.app/api/pin/?username=KauaRios&repo=BACKEND-Cafeteria&theme=dark&bg_color=0d0f12&border_color=1a1508&title_color=c9a84c&text_color=5a5040)](https://github.com/KauaRios/BACKEND-Cafeteria)
 
 </div>
 
@@ -86,7 +93,7 @@ Tenho experiência com **HTML**, **CSS**, **PHP**, **C**, **C++**, **Python**, *
 
 ---
 
-## 🕯️ Bonfires Lit — Educação
+## 🎓 Educação
 
 | | Curso | Status |
 |:---:|:---|:---:|
@@ -96,6 +103,6 @@ Tenho experiência com **HTML**, **CSS**, **PHP**, **C**, **C++**, **Python**, *
 
 <div align="center">
 
-*† Seek Paleblood to transcend the Hunt †*
+
 
 </div>
