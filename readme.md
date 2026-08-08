@@ -28,7 +28,7 @@
 
 ---
 
-**Computer Science Student — 3/8**
+**Computer Science Student — 4/8**
 
 Cursando **Ciências da Computação**, construindo projetos reais e aprofundando conhecimentos em desenvolvimento de software, sistemas operacionais Linux e arquitetura de computadores.
 
