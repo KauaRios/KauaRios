@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="./src/532525.jpg" width="100%" alt="Yharnam"/>
+  <img src="./src/asset.gif" width="100%" alt="Yharnam"/>
 </div>
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Ciencia+Da+Computacao+e+Vida." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C7A19B&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Ciencia+Da+Computacao+e+Vida." alt="Typing SVG"/>
 </div>
 
 <br/>
