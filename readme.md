@@ -63,10 +63,6 @@ Já trabalhei com **Python, C, C++, PHP e JavaScript** nos meus projetos. No mom
   <img src="https://streak-stats.demolab.com?user=KauaRios&amp;theme=dark&amp;ring=A8C99B&amp;fire=A8C99B&amp;currStreakLabel=A8C99B&amp;background=0B1219&amp;border=2A3E49&amp;stroke=2A3E49&amp;dates=A9B8C4&amp;sideLabels=A8C99B" alt="Estatísticas de contribuições e sequência de atividade de Kauã Rios" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KauaRios/KauaRios/main/profile-3d-contrib/profile-sanemi.svg" width="960" alt="Minhas contribuições em uma cidade 3D, com prédios verdes sobre fundo azul-noturno" />
-</p>
-
 <br />
 
 <p align="center">
