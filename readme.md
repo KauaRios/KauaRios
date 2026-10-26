@@ -60,7 +60,7 @@ Já trabalhei com **Python, C, C++, PHP e JavaScript** nos meus projetos. No mom
 ## Contribuições no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaRios&amp;bg_color=0B1219&amp;color=EDF2EB&amp;line=A8C99B&amp;point=A9B8C4&amp;area=true&amp;area_color=A8C99B&amp;hide_border=true&amp;title_color=A8C99B&amp;custom_title=Contribuicoes" width="960" alt="Gráfico de contribuições de Kauã Rios" />
+  <img src="./src/profile/contributions.svg" width="960" alt="Calendário de contribuições de Kauã Rios no último ano, atualizado diariamente" />
 </p>
 
 <br />
