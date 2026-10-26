@@ -64,7 +64,7 @@ Já trabalhei com **Python, C, C++, PHP e JavaScript** nos meus projetos. No mom
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-sanemi.svg" width="960" alt="Minhas contribuições em uma cidade 3D, com prédios verdes sobre fundo azul-noturno" />
+  <img src="https://raw.githubusercontent.com/KauaRios/KauaRios/main/profile-3d-contrib/profile-sanemi.svg" width="960" alt="Minhas contribuições em uma cidade 3D, com prédios verdes sobre fundo azul-noturno" />
 </p>
 
 <br />
