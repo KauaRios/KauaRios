@@ -1,0 +1,43 @@
+name: Cidade de contribuições 3D
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - .github/workflows/profile-3d.yml
+      - .github/profile-3d-settings.json
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Gerar cidade de contribuições
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          USERNAME: KauaRios
+          SETTING_JSON: .github/profile-3d-settings.json
+      - name: Salvar imagem
+        run: |
+          test -s profile-3d-contrib/profile-sanemi.svg
+          git add profile-3d-contrib/profile-sanemi.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Atualiza cidade de contribuições 3D'
+          git pull --rebase
+          git push
